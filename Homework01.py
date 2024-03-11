@@ -1,0 +1,6 @@
+Num01 = (5)
+Num02 = (3)
+Sum = (Num01 + Num02)
+print(Sum)
+result = (Sum+Num01*Num02)
+print(result)
