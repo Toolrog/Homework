@@ -10,7 +10,7 @@ immutable_var01 [0][2] = 5.6
 print (immutable_var01)
 #List
 Mutable_var = [1,2,5, True, 'string']
-Mutable_var.remove(True)
+Mutable_var.remove(2)
 Mutable_var.append(6.0)
 Mutable_var.extend(['apple'])
 print(type(Mutable_var))
